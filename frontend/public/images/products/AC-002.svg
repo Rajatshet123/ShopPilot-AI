@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="ClearView 4K webcam">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1c"/><stop offset="0.55" stop-color="#123a5a"/><stop offset="1" stop-color="#3b1d7a"/>
+    </linearGradient>
+    <radialGradient id="lens" cx="0.35" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#67e8f9"/><stop offset="0.45" stop-color="#2563eb"/><stop offset="1" stop-color="#0b1026"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="650" cy="90" r="125" fill="#38bdf8" opacity="0.12"/>
+  <rect x="250" y="120" width="300" height="170" rx="46" fill="#111827" stroke="#64748b" stroke-width="6"/>
+  <circle cx="400" cy="198" r="66" fill="#0b1026" stroke="#818cf8" stroke-width="6"/>
+  <circle cx="400" cy="198" r="42" fill="url(#lens)"/>
+  <circle cx="384" cy="182" r="10" fill="#e0f2fe" opacity="0.85"/>
+  <rect x="300" y="290" width="200" height="18" rx="9" fill="#1e293b"/>
+  <rect x="370" y="308" width="60" height="44" rx="10" fill="#1e293b" stroke="#475569" stroke-width="4"/>
+  <text x="400" y="396" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Logitech</text>
+  <text x="400" y="424" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">C270 HD Webcam · 720p</text>
+</svg>

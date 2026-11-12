@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Smartphone demo image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="0.55" stop-color="#123a5a"/>
+      <stop offset="1" stop-color="#3b1d7a"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="640" cy="110" r="130" fill="#38bdf8" opacity="0.12"/>
+  <circle cx="160" cy="360" r="140" fill="#8b5cf6" opacity="0.12"/>
+  <rect x="315" y="45" width="170" height="330" rx="30" fill="#0f172a" stroke="#64748b" stroke-width="6"/>
+  <rect x="330" y="68" width="140" height="284" rx="18" fill="url(#screen)" opacity="0.85"/>
+  <rect x="368" y="52" width="64" height="10" rx="5" fill="#475569"/>
+  <circle cx="400" cy="85" r="7" fill="#0f172a"/>
+  <text x="400" y="425" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="20" text-anchor="middle">ShopPilot demo catalogue</text>
+</svg>

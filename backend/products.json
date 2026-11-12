@@ -1,0 +1,701 @@
+[
+  {
+    "id": "LP-001",
+    "name": "HP Pavilion 14",
+    "brand": "HP",
+    "category": "laptop",
+    "price": 64999,
+    "rating": 4.4,
+    "description": "A dependable everyday laptop for students and professionals, with a 12th Gen Intel Core i5, 16GB memory, and a fast 512GB SSD.",
+    "specifications": {
+      "Processor": "Intel Core i5-1240P (12th Gen)",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "14-inch FHD IPS",
+      "Graphics": "Intel Iris Xe",
+      "Battery": "Up to 8 hours",
+      "Weight": "1.41 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "Backlit keyboard",
+      "Fast-charge support",
+      "Wi-Fi 6",
+      "HD webcam with privacy shutter",
+      "1-year onsite warranty"
+    ],
+    "image": "/images/products/LP-003.webp",
+    "price_usd": 764.69,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-002",
+    "name": "Dell Inspiron 14 5420",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 62990,
+    "rating": 4.3,
+    "description": "A slim 14-inch productivity laptop with a comfortable keyboard, 16GB RAM, and 512GB SSD for multitasking at work or college.",
+    "specifications": {
+      "Processor": "Intel Core i5-1240P (12th Gen)",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "14-inch FHD+ IPS",
+      "Graphics": "Intel Iris Xe",
+      "Battery": "Up to 7 hours",
+      "Weight": "1.54 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "ComfortView Plus display",
+      "ExpressCharge",
+      "Wi-Fi 6",
+      "FHD webcam",
+      "Dell Support Assist"
+    ],
+    "image": "/images/products/LP-005.webp",
+    "price_usd": 741.06,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-003",
+    "name": "Lenovo IdeaPad Slim 3",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 54990,
+    "rating": 4.2,
+    "description": "A value-focused 15.6-inch laptop powered by AMD Ryzen 5 with 16GB LPDDR5 memory and a 512GB SSD.",
+    "specifications": {
+      "Processor": "AMD Ryzen 5 7520U",
+      "RAM": "16GB LPDDR5",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD IPS",
+      "Graphics": "AMD Radeon 610M",
+      "Battery": "Up to 8 hours",
+      "Weight": "1.62 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "Rapid Charge",
+      "Privacy shutter",
+      "Wi-Fi 6",
+      "Anti-glare display",
+      "Military-grade durability tests"
+    ],
+    "image": "/images/products/LP-004.webp",
+    "price_usd": 646.94,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-004",
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price": 58990,
+    "rating": 4.4,
+    "description": "A stylish everyday laptop with a 12th Gen Intel H-series processor, 16GB RAM, and a 15.6-inch FHD display.",
+    "specifications": {
+      "Processor": "Intel Core i5-12450H (12th Gen)",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD IPS",
+      "Graphics": "Intel UHD",
+      "Battery": "Up to 7 hours",
+      "Weight": "1.70 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "180-degree hinge",
+      "ASUS Antibacterial Guard",
+      "Wi-Fi 6",
+      "HD webcam with privacy shutter",
+      "Backlit keyboard"
+    ],
+    "image": "/images/products/LP-002.webp",
+    "price_usd": 694.0,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-005",
+    "name": "Acer Aspire 5",
+    "brand": "Acer",
+    "category": "laptop",
+    "price": 52990,
+    "rating": 4.1,
+    "description": "An affordable all-rounder with a 12th Gen Intel Core i5, 16GB RAM, and a 512GB SSD for study and office work.",
+    "specifications": {
+      "Processor": "Intel Core i5-12450H (12th Gen)",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD IPS",
+      "Graphics": "Intel UHD",
+      "Battery": "Up to 7 hours",
+      "Weight": "1.78 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "Acer BlueLightShield",
+      "Wi-Fi 6",
+      "Full-size keyboard",
+      "HD webcam",
+      "Acer Care Center"
+    ],
+    "image": "/images/products/LP-009.webp",
+    "price_usd": 623.41,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-006",
+    "name": "Apple MacBook Air M2 13",
+    "brand": "Apple",
+    "category": "laptop",
+    "price": 99900,
+    "rating": 4.8,
+    "description": "The fanless MacBook Air with Apple M2 chip, a bright Liquid Retina display, and all-day battery life.",
+    "specifications": {
+      "Processor": "Apple M2 (8-core CPU)",
+      "RAM": "8GB Unified Memory",
+      "Storage": "256GB SSD",
+      "Display": "13.6-inch Liquid Retina",
+      "Graphics": "8-core GPU",
+      "Battery": "Up to 18 hours",
+      "Weight": "1.24 kg",
+      "OS": "macOS"
+    },
+    "features": [
+      "Fanless design",
+      "1080p FaceTime HD camera",
+      "MagSafe charging",
+      "Touch ID",
+      "Spatial audio speakers"
+    ],
+    "image": "/images/products/LP-001.webp",
+    "price_usd": 1175.29,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-007",
+    "name": "HP Victus 15 Gaming",
+    "brand": "HP",
+    "category": "laptop",
+    "price": 69990,
+    "rating": 4.3,
+    "description": "An entry-level gaming laptop with AMD Ryzen 5, NVIDIA RTX 3050 graphics, and 16GB RAM.",
+    "specifications": {
+      "Processor": "AMD Ryzen 5 5600H",
+      "RAM": "16GB DDR4",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD 144Hz",
+      "Graphics": "NVIDIA RTX 3050 4GB",
+      "Battery": "Up to 6 hours",
+      "Weight": "2.29 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "144Hz gaming display",
+      "Wide rear vents",
+      "Backlit keyboard",
+      "Wi-Fi 6",
+      "OMEN Gaming Hub"
+    ],
+    "image": "/images/products/LP-010.webp",
+    "price_usd": 823.41,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-008",
+    "name": "Dell G15 5520 Gaming",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 74990,
+    "rating": 4.4,
+    "description": "A gaming laptop with 12th Gen Intel Core i5 and RTX 3050 graphics for smooth 1080p gaming.",
+    "specifications": {
+      "Processor": "Intel Core i5-12500H (12th Gen)",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD 120Hz",
+      "Graphics": "NVIDIA RTX 3050 4GB",
+      "Battery": "Up to 6 hours",
+      "Weight": "2.65 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "120Hz display",
+      "Alienware-inspired cooling",
+      "Orange backlit keyboard",
+      "Wi-Fi 6",
+      "Dell Game Shift"
+    ],
+    "image": "/images/products/LP-005.webp",
+    "price_usd": 882.24,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-009",
+    "name": "Lenovo LOQ 15 Gaming",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 79990,
+    "rating": 4.5,
+    "description": "A modern gaming laptop with a 12th Gen Intel Core i5 and NVIDIA RTX 4050 graphics for creators and gamers.",
+    "specifications": {
+      "Processor": "Intel Core i5-12450H (12th Gen)",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD 144Hz",
+      "Graphics": "NVIDIA RTX 4050 6GB",
+      "Battery": "Up to 6 hours",
+      "Weight": "2.38 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "144Hz display",
+      "LA1 AI chip",
+      "ColdFront cooling",
+      "Backlit keyboard",
+      "Wi-Fi 6"
+    ],
+    "image": "/images/products/LP-008.webp",
+    "price_usd": 941.06,
+    "price_currency": "INR"
+  },
+  {
+    "id": "LP-010",
+    "name": "ASUS TUF Gaming A15",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price": 99990,
+    "rating": 4.6,
+    "description": "A durable gaming laptop with AMD Ryzen 7, RTX 4060 graphics, and a fast 144Hz display.",
+    "specifications": {
+      "Processor": "AMD Ryzen 7 7435HS",
+      "RAM": "16GB DDR5",
+      "Storage": "512GB SSD",
+      "Display": "15.6-inch FHD 144Hz",
+      "Graphics": "NVIDIA RTX 4060 8GB",
+      "Battery": "Up to 7 hours",
+      "Weight": "2.30 kg",
+      "OS": "Windows 11 Home"
+    },
+    "features": [
+      "MIL-STD-810H durability",
+      "144Hz display",
+      "Self-cleaning fans",
+      "Backlit keyboard",
+      "Dolby Atmos audio"
+    ],
+    "image": "/images/products/LP-007.webp",
+    "price_usd": 1176.35,
+    "price_currency": "INR"
+  },
+  {
+    "id": "SP-001",
+    "name": "Samsung Galaxy S24 5G",
+    "brand": "Samsung",
+    "category": "smartphone",
+    "price": 74999,
+    "rating": 4.6,
+    "description": "A compact flagship with Galaxy AI features, a 120Hz AMOLED display, and a versatile triple camera.",
+    "specifications": {
+      "Processor": "Exynos 2400",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Display": "6.2-inch FHD+ AMOLED 120Hz",
+      "Camera": "50MP + 12MP + 10MP",
+      "Battery": "4000mAh, 25W",
+      "OS": "Android 14",
+      "Connectivity": "5G, Wi-Fi 6E"
+    },
+    "features": [
+      "Galaxy AI",
+      "Circle to Search",
+      "IP68 water resistance",
+      "7 years of OS updates",
+      "Wireless charging"
+    ],
+    "image": "/images/products/SP-002.webp",
+    "price_usd": 882.34,
+    "price_currency": "INR"
+  },
+  {
+    "id": "SP-002",
+    "name": "Apple iPhone 15",
+    "brand": "Apple",
+    "category": "smartphone",
+    "price": 69900,
+    "rating": 4.7,
+    "description": "iPhone 15 with Dynamic Island, a 48MP main camera, USB-C, and the A16 Bionic chip.",
+    "specifications": {
+      "Processor": "A16 Bionic",
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Display": "6.1-inch Super Retina XDR",
+      "Camera": "48MP + 12MP",
+      "Battery": "Up to 20 hours video",
+      "OS": "iOS 17",
+      "Connectivity": "5G, Wi-Fi 6"
+    },
+    "features": [
+      "Dynamic Island",
+      "USB-C",
+      "Ceramic Shield",
+      "Emergency SOS via satellite",
+      "MagSafe"
+    ],
+    "image": "/images/products/SP-001.webp",
+    "price_usd": 822.35,
+    "price_currency": "INR"
+  },
+  {
+    "id": "SP-003",
+    "name": "OnePlus 12R 5G",
+    "brand": "OnePlus",
+    "category": "smartphone",
+    "price": 39999,
+    "rating": 4.5,
+    "description": "A performance-focused smartphone with Snapdragon 8 Gen 2, 100W charging, and a 120Hz LTPO AMOLED display.",
+    "specifications": {
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Display": "6.78-inch 1.5K LTPO AMOLED 120Hz",
+      "Camera": "50MP + 8MP + 2MP",
+      "Battery": "5500mAh, 100W",
+      "OS": "OxygenOS 14",
+      "Connectivity": "5G, Wi-Fi 7"
+    },
+    "features": [
+      "100W SUPERVOOC charging",
+      "120Hz LTPO display",
+      "Alert Slider",
+      "IR remote",
+      "OxygenOS 14"
+    ],
+    "image": "/images/products/SP-003.webp",
+    "price_usd": 470.58,
+    "price_currency": "INR"
+  },
+  {
+    "id": "SP-004",
+    "name": "Redmi Note 13 Pro 5G",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "price": 23999,
+    "rating": 4.4,
+    "description": "A mid-range all-rounder with a 200MP camera, 1.5K AMOLED display, and 67W fast charging.",
+    "specifications": {
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Display": "6.67-inch 1.5K AMOLED 120Hz",
+      "Camera": "200MP + 8MP + 2MP",
+      "Battery": "5100mAh, 67W",
+      "OS": "MIUI 14",
+      "Connectivity": "5G, Wi-Fi 6"
+    },
+    "features": [
+      "200MP OIS camera",
+      "67W turbo charging",
+      "Gorilla Glass Victus",
+      "IP54 rating",
+      "In-display fingerprint sensor"
+    ],
+    "image": "/images/products/SP-005.webp",
+    "price_usd": 282.34,
+    "price_currency": "INR"
+  },
+  {
+    "id": "SP-005",
+    "name": "Realme 12 Pro+ 5G",
+    "brand": "Realme",
+    "category": "smartphone",
+    "price": 27999,
+    "rating": 4.3,
+    "description": "A camera-focused phone with a periscope telephoto lens, curved AMOLED display, and Snapdragon 7s Gen 2.",
+    "specifications": {
+      "Processor": "Snapdragon 7s Gen 2",
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Display": "6.7-inch FHD+ curved AMOLED 120Hz",
+      "Camera": "50MP + 64MP periscope + 8MP",
+      "Battery": "5000mAh, 67W",
+      "OS": "Realme UI 5.0",
+      "Connectivity": "5G, Wi-Fi 6"
+    },
+    "features": [
+      "3x periscope telephoto",
+      "67W SUPERVOOC",
+      "Curved AMOLED display",
+      "IP65 rating",
+      "Dual stereo speakers"
+    ],
+    "image": "/images/products/SP-004.webp",
+    "price_usd": 329.4,
+    "price_currency": "INR"
+  },
+  {
+    "id": "HP-001",
+    "name": "boAt Rockerz 550",
+    "brand": "boAt",
+    "category": "headphone",
+    "price": 1999,
+    "rating": 4.1,
+    "description": "Affordable over-ear Bluetooth headphones with punchy bass and long battery life.",
+    "specifications": {
+      "Type": "Over-ear",
+      "Battery": "Up to 20 hours",
+      "Connectivity": "Bluetooth 5.0",
+      "Noise Cancellation": "Passive",
+      "Drivers": "50mm",
+      "Weight": "245g"
+    },
+    "features": [
+      "Immersive bass",
+      "20-hour playback",
+      "Padded ear cushions",
+      "Built-in microphone",
+      "Foldable design"
+    ],
+    "image": "/images/products/HP-003.jpg",
+    "price_usd": 23.52,
+    "price_currency": "INR"
+  },
+  {
+    "id": "HP-002",
+    "name": "Sony WH-CH720N",
+    "brand": "Sony",
+    "category": "headphone",
+    "price": 8999,
+    "rating": 4.5,
+    "description": "Lightweight wireless headphones with active noise cancellation and up to 35 hours of battery life.",
+    "specifications": {
+      "Type": "Over-ear",
+      "Battery": "Up to 35 hours",
+      "Connectivity": "Bluetooth 5.2",
+      "Noise Cancellation": "Active (ANC)",
+      "Drivers": "30mm",
+      "Weight": "192g"
+    },
+    "features": [
+      "Active noise cancellation",
+      "Multipoint connection",
+      "Quick charging",
+      "Sony Headphones Connect app",
+      "Lightweight design"
+    ],
+    "image": "/images/products/HP-001.webp",
+    "price_usd": 105.87,
+    "price_currency": "INR"
+  },
+  {
+    "id": "HP-003",
+    "name": "JBL Tune 770NC",
+    "brand": "JBL",
+    "category": "headphone",
+    "price": 7999,
+    "rating": 4.4,
+    "description": "Adaptive noise-cancelling headphones with JBL Pure Bass sound and up to 70 hours of battery.",
+    "specifications": {
+      "Type": "Over-ear",
+      "Battery": "Up to 70 hours",
+      "Connectivity": "Bluetooth 5.3",
+      "Noise Cancellation": "Adaptive ANC",
+      "Drivers": "40mm",
+      "Weight": "232g"
+    },
+    "features": [
+      "Adaptive ANC",
+      "JBL Pure Bass",
+      "Multipoint connection",
+      "Foldable design",
+      "JBL Headphones app"
+    ],
+    "image": "/images/products/HP-003.jpg",
+    "price_usd": 94.11,
+    "price_currency": "INR"
+  },
+  {
+    "id": "HP-004",
+    "name": "Noise Buds VS104",
+    "brand": "Noise",
+    "category": "headphone",
+    "price": 1299,
+    "rating": 4.0,
+    "description": "True wireless earbuds with instant pairing, environmental noise cancellation, and a long-lasting charging case.",
+    "specifications": {
+      "Type": "True wireless earbuds",
+      "Battery": "Up to 45 hours with case",
+      "Connectivity": "Bluetooth 5.3",
+      "Noise Cancellation": "ENC for calls",
+      "Drivers": "13mm",
+      "Weight": "42g with case"
+    },
+    "features": [
+      "45-hour total playback",
+      "Quad mic ENC",
+      "Instacharge",
+      "IPX5 sweat resistance",
+      "Hyper Sync pairing"
+    ],
+    "image": "/images/products/HP-004.webp",
+    "price_usd": 15.28,
+    "price_currency": "INR"
+  },
+  {
+    "id": "HP-005",
+    "name": "Apple AirPods Pro 2nd Gen",
+    "brand": "Apple",
+    "category": "headphone",
+    "price": 24900,
+    "rating": 4.7,
+    "description": "Premium wireless earbuds with adaptive noise cancellation, transparency mode, and USB-C charging.",
+    "specifications": {
+      "Type": "True wireless earbuds",
+      "Battery": "Up to 30 hours with case",
+      "Connectivity": "Bluetooth 5.3",
+      "Noise Cancellation": "Adaptive ANC",
+      "Drivers": "Custom Apple drivers",
+      "Weight": "5.3g per bud"
+    },
+    "features": [
+      "Adaptive Audio",
+      "Personalized Spatial Audio",
+      "USB-C charging case",
+      "IP54 rating",
+      "Find My support"
+    ],
+    "image": "/images/products/HP-002.webp",
+    "price_usd": 292.94,
+    "price_currency": "INR"
+  },
+  {
+    "id": "AC-001",
+    "name": "Dell KM3322W Keyboard & Mouse Combo",
+    "brand": "Dell",
+    "category": "accessory",
+    "price": 1499,
+    "rating": 4.2,
+    "description": "A reliable wireless keyboard and mouse combo for everyday office and home use.",
+    "specifications": {
+      "Type": "Wireless keyboard and mouse combo",
+      "Connectivity": "2.4GHz wireless",
+      "Compatibility": "Windows, macOS, Linux",
+      "Battery": "Up to 12 months",
+      "Warranty": "1 year"
+    },
+    "features": [
+      "Full-size keyboard",
+      "Ambidextrous mouse",
+      "Plug-and-play USB receiver",
+      "Spill-resistant keys",
+      "Adjustable DPI"
+    ],
+    "image": "/images/products/AC-001.svg",
+    "price_usd": 17.64,
+    "price_currency": "INR"
+  },
+  {
+    "id": "AC-002",
+    "name": "Logitech C270 HD Webcam",
+    "brand": "Logitech",
+    "category": "accessory",
+    "price": 2195,
+    "rating": 4.3,
+    "description": "A compact 720p HD webcam with a built-in microphone for video calls and online classes.",
+    "specifications": {
+      "Type": "HD webcam",
+      "Connectivity": "USB-A",
+      "Compatibility": "Windows, macOS, ChromeOS",
+      "Resolution": "720p at 30fps",
+      "Warranty": "1 year"
+    },
+    "features": [
+      "720p HD video",
+      "Built-in noise-reducing mic",
+      "Fixed focus",
+      "Universal clip",
+      "Plug-and-play"
+    ],
+    "image": "/images/products/AC-002.svg",
+    "price_usd": 25.82,
+    "price_currency": "INR"
+  },
+  {
+    "id": "AC-003",
+    "name": "HP USB-C Travel Hub G2",
+    "brand": "HP",
+    "category": "accessory",
+    "price": 4999,
+    "rating": 4.2,
+    "description": "A portable USB-C hub that adds HDMI, USB-A, and USB-C connectivity to your laptop.",
+    "specifications": {
+      "Type": "USB-C travel hub",
+      "Connectivity": "USB-C, HDMI, USB-A",
+      "Compatibility": "Windows, macOS, ChromeOS",
+      "Warranty": "1 year"
+    },
+    "features": [
+      "HDMI output",
+      "USB-C pass-through charging",
+      "Compact travel design",
+      "Plug-and-play",
+      "HP warranty support"
+    ],
+    "image": "/images/products/AC-003.svg",
+    "price_usd": 58.81,
+    "price_currency": "INR"
+  },
+  {
+    "id": "AC-004",
+    "name": "HP 1000 Wireless Mouse",
+    "brand": "HP",
+    "category": "accessory",
+    "price": 999,
+    "rating": 4.0,
+    "description": "A simple, comfortable wireless mouse with reliable 2.4GHz connectivity.",
+    "specifications": {
+      "Type": "Wireless mouse",
+      "Connectivity": "2.4GHz wireless",
+      "Compatibility": "Windows, macOS",
+      "Battery": "Up to 12 months",
+      "Warranty": "1 year"
+    },
+    "features": [
+      "1000 DPI optical sensor",
+      "Ambidextrous design",
+      "USB nano receiver",
+      "Scroll wheel",
+      "Plug-and-play"
+    ],
+    "image": "/images/products/AC-004.svg",
+    "price_usd": 11.75,
+    "price_currency": "INR"
+  },
+  {
+    "id": "AC-005",
+    "name": "Anker 65W GaN Charger",
+    "brand": "Anker",
+    "category": "accessory",
+    "price": 3499,
+    "rating": 4.5,
+    "description": "A compact 65W GaN charger with multiple ports for laptops, phones, and accessories.",
+    "specifications": {
+      "Type": "GaN wall charger",
+      "Connectivity": "2x USB-C, 1x USB-A",
+      "Compatibility": "Laptops, smartphones, tablets",
+      "Output": "65W max",
+      "Warranty": "18 months"
+    },
+    "features": [
+      "GaN fast charging",
+      "Three ports",
+      "Compact design",
+      "Foldable plug",
+      "Anker MultiProtect safety"
+    ],
+    "image": "/images/products/AC-005.svg",
+    "price_usd": 41.16,
+    "price_currency": "INR"
+  }
+]

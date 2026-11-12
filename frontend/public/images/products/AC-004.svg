@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="GlidePro wireless mouse">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1c"/><stop offset="0.55" stop-color="#172a63"/><stop offset="1" stop-color="#3b1d7a"/>
+    </linearGradient>
+    <linearGradient id="mouse" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#64748b"/><stop offset="0.55" stop-color="#1e293b"/><stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="650" cy="85" r="125" fill="#818cf8" opacity="0.12"/>
+  <path d="M400 100c-78 0-128 62-128 148 0 74 40 112 128 112s128-38 128-112c0-86-50-148-128-148z" fill="url(#mouse)" stroke="#94a3b8" stroke-width="6"/>
+  <path d="M400 100v118" stroke="#475569" stroke-width="6"/>
+  <rect x="386" y="142" width="28" height="52" rx="14" fill="#67e8f9"/>
+  <circle cx="400" cy="312" r="12" fill="#67e8f9" opacity="0.8"/>
+  <text x="400" y="418" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">HP</text>
+  <text x="400" y="444" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">1000 Wireless Mouse</text>
+</svg>

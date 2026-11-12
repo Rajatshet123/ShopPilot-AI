@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="PowerNest 65W charger">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1c"/><stop offset="0.55" stop-color="#123a5a"/><stop offset="1" stop-color="#3b1d7a"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2e8f0"/><stop offset="1" stop-color="#94a3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="650" cy="85" r="125" fill="#5eead4" opacity="0.12"/>
+  <rect x="285" y="120" width="230" height="190" rx="34" fill="url(#body)" stroke="#cbd5e1" stroke-width="5"/>
+  <rect x="320" y="80" width="30" height="55" rx="8" fill="#94a3b8"/>
+  <rect x="450" y="80" width="30" height="55" rx="8" fill="#94a3b8"/>
+  <rect x="325" y="205" width="66" height="38" rx="9" fill="#0f172a"/>
+  <rect x="409" y="205" width="66" height="38" rx="9" fill="#0f172a"/>
+  <circle cx="342" cy="260" r="8" fill="#334155"/>
+  <path d="M515 170c70 18 70 82 0 100" fill="none" stroke="#67e8f9" stroke-width="10" stroke-linecap="round"/>
+  <path d="M285 170c-70 18-70 82 0 100" fill="none" stroke="#67e8f9" stroke-width="10" stroke-linecap="round"/>
+  <text x="400" y="366" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Anker</text>
+  <text x="400" y="394" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="18" text-anchor="middle">65W GaN Charger · 3 ports</text>
+</svg>
